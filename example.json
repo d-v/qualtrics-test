@@ -1,2 +1,5 @@
-{"url":"https://github.com/d-v/qualtrics-test/raw/master/example.jpeg"
+{
+  "images": {
+    "example": "https://github.com/d-v/qualtrics-test/raw/master/example.jpeg"
+  }
 }
